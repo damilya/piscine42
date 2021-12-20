@@ -1,0 +1,5 @@
+Credentials cache: API:B3E9C3A7-4EA4-40F2-AD05-126D5EE1B2EC
+        Principal: dzhantay@S19.BE
+
+  Issued                Expires               Principal
+Nov 10 11:02:28 2021  Nov 11 11:02:28 2021  krbtgt/S19.BE@S19.BE
